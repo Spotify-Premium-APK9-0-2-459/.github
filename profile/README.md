@@ -54,7 +54,7 @@ O Spotify Premium APK se destaca em relação aos seus concorrentes no serviço 
 - Requer instalação manual do arquivo APK
 - Pode não receber suporte oficial
 
-![Uploading spotify-premium-apk-atualizado.jpg…]()
+![spotify-premium-apk-atualizado](https://github.com/user-attachments/assets/891ac36d-4e84-4f3a-808d-dd45d04d6cd8)
 
 
 ## Como Funciona o Spotify Premium APK?
